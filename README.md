@@ -108,7 +108,7 @@ This project is designed to run in **Google Colab**.
 
 ### Setup Steps:
 - Mount Google Drive  
-- Include required utility (utilities) and model files
+- Include required utility and model files ([utilities](./rutilities), code.ipynb)
 - Ensure dataset is uploaded to Drive  
 
 Note: Colab is recommended for compatibility with file paths and dependencies.
