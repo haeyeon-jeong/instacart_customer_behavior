@@ -16,7 +16,7 @@ The project covers the full machine learning workflow, including data preprocess
 
 ## Background & Motivation
 
-The online grocery market is rapidly expanding, making customer behavior prediction increasingly important. As highlighted in the project presentation, online grocery sales reached significant growth levels, emphasizing the need for accurate prediction systems :contentReference[oaicite:0]{index=0}.
+The online grocery market is rapidly expanding, making customer behavior prediction increasingly important. As highlighted in the project presentation, online grocery sales reached significant growth levels, emphasizing the need for accurate prediction systems.
 
 Understanding reorder behavior helps improve:
 - Customer retention  
@@ -108,7 +108,7 @@ This project is designed to run in **Google Colab**.
 
 ### Setup Steps:
 - Mount Google Drive  
-- Include required utility(./report) and model files
+- Include required utility (utilities) and model files
 - Ensure dataset is uploaded to Drive  
 
 Note: Colab is recommended for compatibility with file paths and dependencies.
