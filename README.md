@@ -108,7 +108,7 @@ This project is designed to run in **Google Colab**.
 
 ### Setup Steps:
 - Mount Google Drive  
-- Include required utility and model files
+- Include required utility(./report) and model files
 - Ensure dataset is uploaded to Drive  
 
 Note: Colab is recommended for compatibility with file paths and dependencies.
