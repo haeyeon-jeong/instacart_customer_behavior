@@ -124,7 +124,16 @@ Note: Colab is recommended for compatibility with file paths and dependencies.
 - Matplotlib, Seaborn  
 - Google Colab  
 
-
-
+---
 
 ## Project Structure
+code.ipynb
+
+Sections:
+
+Data Preparation
+Data Preprocessing
+Feature Engineering
+Model Training
+Hyperparameter Tuning
+Evaluation & Insights
