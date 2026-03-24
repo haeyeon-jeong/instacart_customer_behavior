@@ -131,9 +131,9 @@ code.ipynb
 
 Sections:
 
-Data Preparation
-Data Preprocessing
-Feature Engineering
-Model Training
-Hyperparameter Tuning
-Evaluation & Insights
+- Data Preparation
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Hyperparameter Tuning
+- Evaluation & Insights
